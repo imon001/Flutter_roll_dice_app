@@ -9,7 +9,7 @@ class Home extends StatelessWidget {
     return const Scaffold(
       body: GradientPage(colors: [
         Color.fromARGB(255, 246, 234, 234),
-        Color.fromARGB(255, 212, 196, 196),
+        Color.fromARGB(255, 162, 148, 148),
         Color.fromARGB(255, 195, 174, 174),
       ]),
     );
