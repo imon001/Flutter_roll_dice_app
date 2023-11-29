@@ -1,6 +1,6 @@
 # roll_dice
 
-### A basic roll dice with Flutter.
+### A basic roll dice app with Flutter.
 
 ## Screenshots
 
